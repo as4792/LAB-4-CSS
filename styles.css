@@ -33,5 +33,32 @@ a{
 .headings{
 text-decoration-line: underline;
 text-decoration-style: dashed;
+}
 
+.bold-text{
+    font-weight: bold;
+}
+
+#intro{
+    font-weight: 300;
+}
+
+footer{
+    font-weight: 300;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+
+.custom-font{
+    font-family: Times New Roman, serif;
+}
+
+#h4{
+    text-transform: uppercase;
+}
+
+.capitalize-text{
+    text-transform: capitalize;
 }
