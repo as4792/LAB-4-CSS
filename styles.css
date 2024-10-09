@@ -25,3 +25,13 @@ header{
 #id3{
     text-align: center;
 }
+
+a{
+    text-decoration: none;
+}
+
+.headings{
+text-decoration-line: underline;
+text-decoration-style: dashed;
+
+}
