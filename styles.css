@@ -1,0 +1,27 @@
+header{
+    background-color:blue;
+    color:white;
+}
+
+.container{
+    background-color:lightgray; 
+    color: black;
+}
+#id0{
+    color: red;
+}
+#id1{
+    color:green
+} 
+
+.highlight{
+    color:green
+}
+
+.main-content{
+    background-color: yellow;
+}
+
+#id3{
+    text-align: center;
+}
